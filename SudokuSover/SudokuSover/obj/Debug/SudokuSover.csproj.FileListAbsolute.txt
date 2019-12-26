@@ -1,0 +1,9 @@
+C:\Users\Simon\source\repos\SudokuSover\SudokuSover\bin\Debug\SudokuSover.exe.config
+C:\Users\Simon\source\repos\SudokuSover\SudokuSover\bin\Debug\SudokuSover.exe
+C:\Users\Simon\source\repos\SudokuSover\SudokuSover\bin\Debug\SudokuSover.pdb
+C:\Users\Simon\source\repos\SudokuSover\SudokuSover\obj\Debug\SudokuSover.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\SudokuSover\SudokuSover\obj\Debug\SudokuSover.Form1.resources
+C:\Users\Simon\source\repos\SudokuSover\SudokuSover\obj\Debug\SudokuSover.Properties.Resources.resources
+C:\Users\Simon\source\repos\SudokuSover\SudokuSover\obj\Debug\SudokuSover.csproj.GenerateResource.cache
+C:\Users\Simon\source\repos\SudokuSover\SudokuSover\obj\Debug\SudokuSover.exe
+C:\Users\Simon\source\repos\SudokuSover\SudokuSover\obj\Debug\SudokuSover.pdb
