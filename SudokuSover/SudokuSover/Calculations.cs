@@ -190,6 +190,5 @@ namespace SudokuSover
             }
             return true;
         }
-       
     }
 }
